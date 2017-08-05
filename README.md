@@ -182,7 +182,7 @@ Instructions for connecting from your terminal to the instance.
 		- sudo -i -u postgres
 		- psql
 		- Create user catalo
-			- *CREATE USER catalog WITH PASSWORD 'kerthana';*
+			- *CREATE USER catalog WITH PASSWORD 'catalog';*
 		- Change role of user catalog to createDB
 			- *ALTER USER catalog CREATEDB;*
 		- Create new DB `catalog` with own of catalog
