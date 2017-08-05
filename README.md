@@ -1,5 +1,4 @@
-# linux-server-Configuration
-# Linux-server-config
+
 # Linux Server Configuration
 
 Prepare the server to host your web applications.
